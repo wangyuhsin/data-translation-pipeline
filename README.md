@@ -17,13 +17,13 @@ To use these conversion tools, follow these steps:
 
 ```bash
 
-$ git clone https://github.com/your-username/csv-conversion-tools.git
+$ git clone https://github.com/wangyuhsin/data-translation-pipeline.git
 ``` 
 3. Navigate to the cloned repository's directory:
 
 ```bash
 
-$ cd csv-conversion-tools
+$ cd data-translation-pipeline
 ``` 
 4. Place your CSV file in the same directory or provide the path to the file as a command-line argument when running the scripts. 
 5. Run the desired script by executing the following command:
