@@ -30,7 +30,7 @@ $ cd data-translation-pipeline
 
 ```bash
 
-$ python [script_name.py] [path_to_csv_file]
+$ python [script_name.py] [path_to_file]
 ```
 
 Replace `script_name.py` with the name of the script you want to use (`csv2html.py`, `csv2json.py`, `csv2xml.py`, `json2csv.py`, or `xml2csv.py`).<br><br> 
