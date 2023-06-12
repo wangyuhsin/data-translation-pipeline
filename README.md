@@ -57,11 +57,6 @@ You can install the `untangle` library using the following command:
 $ pip install untangle
 ```
 
-
-## Contributing
-
-If you would like to contribute to this repository, feel free to open a pull request. You can contribute by adding new conversion scripts, improving existing ones, or enhancing the utility functions in the `mycsv` module.
-
 ## License
 
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the [LICENSE](https://chat.openai.com/LICENSE)  file for more details.
