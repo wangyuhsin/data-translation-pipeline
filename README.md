@@ -1,4 +1,5 @@
 # Data Translation Pipeline
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a set of Python scripts that allow you to convert CSV (Comma-Separated Values) files to different formats such as HTML, JSON, and XML. These scripts provide a convenient way to transform your data and facilitate interoperability with other systems. Whether you need to present your data in a web-friendly format, exchange it with JSON-based APIs, or work with XML-based systems, these tools have got you covered.
 ## Scripts 
